@@ -34,11 +34,11 @@
         "IE 10"
     ],
     "devDependencies": {
-        "@babel/core": "^7.9.6",
+        "@babel/core": "^7.29.6",
         "@fullhuman/postcss-purgecss": "^2.1.0",
         "@wenprise/purgecss-with-wordpress": "^1.0.4",
         "asset-builder": "^2.0.0",
-        "browser-sync": "^2.26.7",
+        "browser-sync": "^3.0.4",
         "del": "^5.1.0",
         "gulp": "^4.0",
         "gulp-autoprefixer": "^7.0.1",
@@ -69,7 +69,7 @@
         "jshint-stylish": "^2.0.1",
         "lazypipe": "^1.0.2",
         "merge-stream": "^2.0.0",
-        "minimist": "^1.2.2",
+        "minimist": "^1.2.8",
         "postcss-import": "^12.0.1",
         "postcss-nesting": "^7.0.1",
         "postcss-node-sass": "^2.1.8",
